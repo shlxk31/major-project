@@ -1,0 +1,37 @@
+# Severity levels and costs.
+#
+# Status: TODO until the mentor agrees. Do not change these values after
+# any test run. Any change after agreement is logged in docs/DECISIONS.md (D5).
+#
+# All values below are placeholders. No number here is chosen by us alone.
+
+status: TODO-until-mentor-agrees
+agreed_by: null
+agreed_on: null
+
+levels:
+  low:
+    description: TODO-agree-with-mentor
+    cost_false_accept: TODO-agree-with-mentor
+    cost_false_reject: TODO-agree-with-mentor
+  medium:
+    description: TODO-agree-with-mentor
+    cost_false_accept: TODO-agree-with-mentor
+    cost_false_reject: TODO-agree-with-mentor
+  high:
+    description: TODO-agree-with-mentor
+    cost_false_accept: TODO-agree-with-mentor
+    cost_false_reject: TODO-agree-with-mentor
+
+# Used only by the sensitivity analysis (EVALUATION.md, section 7).
+sensitivity_scale:
+  status: TODO-until-mentor-agrees
+  levels:
+    low: TODO-agree-with-mentor
+    medium: TODO-agree-with-mentor
+    high: TODO-agree-with-mentor
+
+# Bootstrap settings (EVALUATION.md, section 6). Not chosen by looking at results.
+bootstrap:
+  resamples: TODO-agree-with-mentor
+  interval_level: TODO-agree-with-mentor

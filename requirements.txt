@@ -1,0 +1,17 @@
+# Intended packages. Nothing is pinned yet.
+# Exact versions are chosen later and recorded in docs/DECISIONS.md.
+#
+# Pretrained models are downloaded separately and are not listed here.
+#
+# numpy
+# scipy
+# pandas
+# pyyaml
+# soundfile
+# torch
+# torchaudio
+# speechbrain          # candidate source for ECAPA-TDNN, to confirm
+# streamlit            # demo
+# scikit-learn         # metrics helpers, if needed
+# pytest               # tests
+# ASR package for RQ-C # not chosen, only if RQ-C runs

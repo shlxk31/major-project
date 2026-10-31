@@ -1,0 +1,9 @@
+.env
+data/raw/
+data/processed/
+*.wav
+*.pth
+*.pkl
+.venv/
+__pycache__/
+results/cache/
